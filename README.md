@@ -1,2 +1,2 @@
 # ProjektKsiazkiGangKukuriniarzy
-Wojciech Tarała,, Kamila Fuczyło, Piotr Kosobucki, Jakub Juskowiak
+Wojciech Tarała, Kamil Fuczyło, Piotr Kosobucki, Jakub Juskowiak
