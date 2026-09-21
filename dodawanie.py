@@ -1,5 +1,5 @@
 def dodaj_podrecznik(podreczniki):
-    print("\n--- DODAWANIE PODRĘCZNIKA ---")
+    print("\nDODAWANIE PODRĘCZNIKA")
 
     tytul = input("Tytuł: ")
     klasa = input("Klasa: ")
@@ -16,7 +16,7 @@ def dodaj_podrecznik(podreczniki):
                 break
 
         except ValueError:
-            print("Podaj poprawną cenę, np. 25.50")
+            print("Podaj poprawną cenę")
 
     podrecznik = {
         "tytul": tytul,
